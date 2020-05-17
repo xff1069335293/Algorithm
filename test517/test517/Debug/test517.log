@@ -1,0 +1,3 @@
+﻿  test.cpp
+g:\code\test517\test517\test.cpp(6): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  test517.vcxproj -> G:\code\test517\Debug\test517.exe
