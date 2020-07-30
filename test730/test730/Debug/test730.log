@@ -1,0 +1,3 @@
+﻿  test.cpp
+g:\code\test730\test730\test.cpp(14): warning C4018: “<=”: 有符号/无符号不匹配
+  test730.vcxproj -> G:\code\test730\Debug\test730.exe
