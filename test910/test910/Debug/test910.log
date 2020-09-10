@@ -1,0 +1,3 @@
+﻿  test.cpp
+g:\code\test910\test910\test.cpp(32): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  test910.vcxproj -> G:\code\test910\Debug\test910.exe
